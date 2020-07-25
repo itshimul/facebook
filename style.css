@@ -114,6 +114,7 @@ body{
 	border-radius:5px;
 	box-sizing:border-box;
 	margin-bottom: 10px;
+	outline:none;
 }
 .reg_form input[type=text]:nth-child(1){
 	width:48%;
@@ -136,10 +137,10 @@ body{
 }
 .birthday select{
 	font-size: 13px;
-    height: 30px;
-    padding: 5px;
+	height: 30px;
+	padding: 5px;
 	background-color: #fff;
-    color: #1c1e21;
+	color: #1c1e21;
 	border: 1px solid #ccd0d5;
 }
 
@@ -159,6 +160,7 @@ body{
 }
 .rdo input[type=radio]{
 	cursor:pointer;
+	outline:none;
 }
 .gender p{
 	color: #777;
@@ -176,22 +178,23 @@ body{
 	background: linear-gradient(#67ae55, #578843);
 	background-color: #69a74e;
 	box-shadow: inset 0 1px 1px #a4e388;
-    border-color: #3b6e22 #3b6e22 #2c5115;	
+	border-color: #3b6e22 #3b6e22 #2c5115;	
 	font-weight: bold;
 	border: 1px solid transparent;
-    border-radius: 5px;
-    color: #fff;    
+	border-radius: 5px;
+	color: #fff;
+	outline:none;
 }
 .gender input[type=submit]:hover {
     background: linear-gradient(#79bc64, #578843);
 }
 .creat_page{
 	border-top: 1px solid #dddfe2;
-    color: #666;
-    font-size: 13px;
-    font-weight: bold;
-    margin-top: 10px;
-    padding-top: 15px;
+	color: #666;
+	font-size: 13px;
+	font-weight: bold;
+	margin-top: 10px;
+	padding-top: 15px;
 }
 .footer{
 	background:black;
