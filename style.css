@@ -61,7 +61,7 @@ body{
 .input-3 input{
 	color: white;
 	font-size:12px;
-	
+	outline:none;
 	background-color:#5b74a8;
 	border:1px solid #293874;
 	padding:2px 5px 4px;
