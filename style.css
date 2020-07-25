@@ -44,8 +44,7 @@ body{
 	float:left;
 }
 .input-1 label, .input-2 label{
-	color:white;
-	
+	color:white;	
 	font-size:13px;
 	cursor:pointer;
 }
@@ -66,7 +65,7 @@ body{
 	border:1px solid #293874;
 	padding:2px 5px 4px;
 	cursor:pointer;
-	margin-top:25px;
+	margin-top:24px;
 }
 .input-3 input:hover{
 	background-color:#426782;
